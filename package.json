@@ -1,0 +1,15 @@
+{
+    "name": "election-tutorial-app",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Brett Loewen",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "electron": "36.1.0"
+    }
+}
